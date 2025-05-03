@@ -1,6 +1,44 @@
-# To-do-List-App
-•A To-Do List app using Django is a web application that allows users to create, update, delete, and manage tasks efficiently. It uses Django's MVC (Model-View-Controller) architecture, with models to store tasks, views to handle logic, and templates for the UI.Features can include task deadlines, categories, user authentication, and status tracking for better task management.
 
+<div align="center">
+    <img src="./Demo/login.png" alt="Application Image" width="500" />
+</div>
 
+# Django Todo List Application
 
+## Features
+- Create, update, and delete tasks
+- Mark tasks as complete
+- User authentication
 
+## Prerequisites
+- Python 3.x
+- Django
+
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/TodoListApp_Django.git
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd TodoListApp_Django
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install Django
+   ```
+
+4. **Usage:**
+   - Run the development server:
+     ```bash
+     python manage.py runserver
+     ```
+   - Visit http://127.0.0.1:8000/ in your browser.
+
+## Screenshots
+
+**Home Page**
+
+   ![Application Image](./Demo/homePage.png)
